@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <g transform="translate(20,20) scale(1.08)">
+    <path d="M120.00,-10.00 L128.40,6.80 L139.60,1.20 L135.40,33.40 L150.80,18.00 L155.00,27.10 L171.80,22.90 L164.80,40.40 L188.60,53.00 L178.80,58.60 L183.00,67.00 L155.00,67.00 L159.20,76.80 L124.20,74.00 L123.50,95.00 L116.50,95.00 L115.80,74.00 L80.80,76.80 L85.00,67.00 L57.00,67.00 L61.20,58.60 L51.40,53.00 L75.20,40.40 L68.20,22.90 L85.00,27.10 L89.20,18.00 L104.60,33.40 L100.40,1.20 L111.60,6.80 L120.00,-10.00Z" fill="#D52B1E"/>
+    <path d="M62,122 V104 a12,12 0 0 1 12,-12 H166 a12,12 0 0 1 12,12 V122" fill="none" stroke="#FFFFFF" stroke-width="13"/>
+    <rect x="104" y="84" width="32" height="26" rx="5" fill="#FFFFFF"/>
+    <rect x="20" y="118" width="200" height="104" rx="18" fill="#FFFFFF"/>
+    <g transform="rotate(-45 62 170)">
+      <rect x="56" y="150" width="12" height="52" rx="6" fill="#14325C"/>
+      <circle cx="62" cy="146" r="17" fill="#14325C"/>
+      <rect x="56" y="124" width="12" height="20" rx="2" fill="#FFFFFF"/>
+    </g>
+    <rect x="100" y="136" width="40" height="66" rx="5" fill="#14325C"/>
+    <rect x="108" y="148" width="24" height="5" rx="2" fill="#FFFFFF"/>
+    <rect x="108" y="160" width="24" height="5" rx="2" fill="#FFFFFF"/>
+    <rect x="108" y="172" width="24" height="5" rx="2" fill="#FFFFFF"/>
+    <rect x="108" y="184" width="16" height="5" rx="2" fill="#FFFFFF"/>
+    <rect x="156" y="182" width="11" height="18" rx="2" fill="#14325C"/>
+    <rect x="172" y="168" width="11" height="32" rx="2" fill="#14325C"/>
+    <rect x="188" y="154" width="11" height="46" rx="2" fill="#14325C"/>
+  </g>
+  <text x="300" y="160" font-family="Arial, sans-serif" font-weight="bold" font-size="120" letter-spacing="-2"><tspan fill="#FFFFFF">SMB</tspan><tspan fill="#D52B1E">Toolkit</tspan><tspan fill="#FFFFFF">.ca</tspan></text>
+  <text x="300" y="222" font-family="Arial, sans-serif" font-weight="bold" font-size="30" letter-spacing="3.5" fill="#FFFFFF">BUILT FOR CANADIAN SMALL BUSINESS</text>
+</svg>
